@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-\[[Website](https://www.cgwe.st/)\] \[[Portfolio](https://www.cgwe.st/)\]
+\[[Portfolio](https://www.cgwe.st/)\]
 
 <!--
 **camonater62/camonater62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
